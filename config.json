@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "shippingsrocess",
+        "uuid": 22754424,
+        "checksum": "ct3li"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": false,
+        "mode": "staging"
+    }
+}
